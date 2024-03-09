@@ -1,0 +1,15 @@
+D:\3 сем\oop\lab12\bin\Debug\net6.0\lab12.exe
+D:\3 сем\oop\lab12\bin\Debug\net6.0\lab12.deps.json
+D:\3 сем\oop\lab12\bin\Debug\net6.0\lab12.runtimeconfig.json
+D:\3 сем\oop\lab12\bin\Debug\net6.0\lab12.dll
+D:\3 сем\oop\lab12\bin\Debug\net6.0\lab12.pdb
+D:\3 сем\oop\lab12\obj\Debug\net6.0\lab12.csproj.AssemblyReference.cache
+D:\3 сем\oop\lab12\obj\Debug\net6.0\lab12.GeneratedMSBuildEditorConfig.editorconfig
+D:\3 сем\oop\lab12\obj\Debug\net6.0\lab12.AssemblyInfoInputs.cache
+D:\3 сем\oop\lab12\obj\Debug\net6.0\lab12.AssemblyInfo.cs
+D:\3 сем\oop\lab12\obj\Debug\net6.0\lab12.csproj.CoreCompileInputs.cache
+D:\3 сем\oop\lab12\obj\Debug\net6.0\lab12.dll
+D:\3 сем\oop\lab12\obj\Debug\net6.0\refint\lab12.dll
+D:\3 сем\oop\lab12\obj\Debug\net6.0\lab12.pdb
+D:\3 сем\oop\lab12\obj\Debug\net6.0\lab12.genruntimeconfig.cache
+D:\3 сем\oop\lab12\obj\Debug\net6.0\ref\lab12.dll
