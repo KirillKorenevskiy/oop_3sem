@@ -1,0 +1,20 @@
+[
+  {
+    "Name": "Экзамен 1",
+    "Date": "2023-10-01",
+    "Duration": 120,
+    "AssignmentCount": 5,
+    "DifficultyLevel": "Сложный",
+    "Type": "Exam",
+    "Subject": "Математика"
+  },
+  {
+    "Name": "Экзамен 2",
+    "Date": "2023-10-02",
+    "Duration": 90,
+    "AssignmentCount": 3,
+    "DifficultyLevel": "Средний",
+    "Type": "Exam",
+    "Subject": "Физика"
+  }
+]

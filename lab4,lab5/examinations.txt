@@ -1,0 +1,4 @@
+Exam,Math Exam,2023-10-15,120,10,Difficult,ExamType1,Math
+Test,History Test,2023-10-20,60,5,TypeA,ExamType2,History
+Exam,Science Exam,2023-10-25,90,8,Medium,ExamType1,Science
+Test,English Test,2023-10-30,45,3,TypeB,ExamType2,English
