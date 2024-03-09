@@ -1,0 +1,15 @@
+D:\3 сем\oop\lab9\bin\Debug\net6.0\lab9.exe
+D:\3 сем\oop\lab9\bin\Debug\net6.0\lab9.deps.json
+D:\3 сем\oop\lab9\bin\Debug\net6.0\lab9.runtimeconfig.json
+D:\3 сем\oop\lab9\bin\Debug\net6.0\lab9.dll
+D:\3 сем\oop\lab9\bin\Debug\net6.0\lab9.pdb
+D:\3 сем\oop\lab9\obj\Debug\net6.0\lab9.csproj.AssemblyReference.cache
+D:\3 сем\oop\lab9\obj\Debug\net6.0\lab9.GeneratedMSBuildEditorConfig.editorconfig
+D:\3 сем\oop\lab9\obj\Debug\net6.0\lab9.AssemblyInfoInputs.cache
+D:\3 сем\oop\lab9\obj\Debug\net6.0\lab9.AssemblyInfo.cs
+D:\3 сем\oop\lab9\obj\Debug\net6.0\lab9.csproj.CoreCompileInputs.cache
+D:\3 сем\oop\lab9\obj\Debug\net6.0\lab9.dll
+D:\3 сем\oop\lab9\obj\Debug\net6.0\refint\lab9.dll
+D:\3 сем\oop\lab9\obj\Debug\net6.0\lab9.pdb
+D:\3 сем\oop\lab9\obj\Debug\net6.0\lab9.genruntimeconfig.cache
+D:\3 сем\oop\lab9\obj\Debug\net6.0\ref\lab9.dll
