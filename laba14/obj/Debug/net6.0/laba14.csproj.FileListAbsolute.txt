@@ -1,0 +1,15 @@
+D:\3 сем\oop\laba14\bin\Debug\net6.0\laba14.exe
+D:\3 сем\oop\laba14\bin\Debug\net6.0\laba14.deps.json
+D:\3 сем\oop\laba14\bin\Debug\net6.0\laba14.runtimeconfig.json
+D:\3 сем\oop\laba14\bin\Debug\net6.0\laba14.dll
+D:\3 сем\oop\laba14\bin\Debug\net6.0\laba14.pdb
+D:\3 сем\oop\laba14\obj\Debug\net6.0\laba14.csproj.AssemblyReference.cache
+D:\3 сем\oop\laba14\obj\Debug\net6.0\laba14.GeneratedMSBuildEditorConfig.editorconfig
+D:\3 сем\oop\laba14\obj\Debug\net6.0\laba14.AssemblyInfoInputs.cache
+D:\3 сем\oop\laba14\obj\Debug\net6.0\laba14.AssemblyInfo.cs
+D:\3 сем\oop\laba14\obj\Debug\net6.0\laba14.csproj.CoreCompileInputs.cache
+D:\3 сем\oop\laba14\obj\Debug\net6.0\laba14.dll
+D:\3 сем\oop\laba14\obj\Debug\net6.0\refint\laba14.dll
+D:\3 сем\oop\laba14\obj\Debug\net6.0\laba14.pdb
+D:\3 сем\oop\laba14\obj\Debug\net6.0\laba14.genruntimeconfig.cache
+D:\3 сем\oop\laba14\obj\Debug\net6.0\ref\laba14.dll

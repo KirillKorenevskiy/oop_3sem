@@ -1,0 +1,12 @@
+﻿<Books>
+  <Book>
+    <Title>Название книги 1</Title>
+    <Author>Автор 1</Author>
+    <Year>2021</Year>
+  </Book>
+  <Book>
+    <Title>Название книги 2</Title>
+    <Author>Автор 2</Author>
+    <Year>2022</Year>
+  </Book>
+</Books>

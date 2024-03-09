@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Students>
+  <Student>
+    <Name>Кирилл</Name>
+    <Age>18</Age>
+    <Grade>10</Grade>
+  </Student>
+  <Student>
+    <Name>Максим</Name>
+    <Age>18</Age>
+    <Grade>9</Grade>
+  </Student>
+</Students>
